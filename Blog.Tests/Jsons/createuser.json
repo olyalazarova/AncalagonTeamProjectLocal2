@@ -1,0 +1,29 @@
+﻿[
+
+  {
+
+    "email": "test10@email.com",
+    "fullname": "Johnny Jackson",
+    "password": "123456",
+    "confirmPassword": "123456"
+
+  },
+
+  {
+
+    "email": "test11@email.com",
+    "fullname": "Johnny Jackson",
+    "password": "123456",
+    "confirmPassword": "123456"
+
+  },
+
+  {
+
+    "email": "test12@email.com",
+    "fullname": "Johnny Jackson",
+    "password": "123456",
+    "confirmPassword": "123456"
+
+  }
+]
